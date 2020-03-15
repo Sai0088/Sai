@@ -27,4 +27,4 @@ void main()
 		break;
 	}
 }
-© 2020 GitHub, Inc.
+
